@@ -1,9 +1,8 @@
-bash
+
 # INICIALIZACIÓN DEL PROYECTO
 
 ## Crear y configurar el repositorio inicial
-
-bash
+```
 # Crear directorio del proyecto
 mkdir proy1
 cd proy1
@@ -51,4 +50,4 @@ git commit -a -m "docs: Se agregó el año y el logo de SENCICO proyecto GIS Lim
 git branch -M main
 git remote add origin https://github.com/anrobe/proy1.git
 git push -u origin main
-bash
+```
