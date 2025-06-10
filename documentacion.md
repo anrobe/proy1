@@ -1,3 +1,4 @@
+bash
 # INICIALIZACIÓN DEL PROYECTO
 
 ## Crear y configurar el repositorio inicial
