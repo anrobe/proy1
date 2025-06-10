@@ -6,3 +6,5 @@ Aplicación web para gestionar puntos de interés en Lima Perú
 - Frontend: HTML, CSS, Javascript, Leaflet, Openlayer
 - Backend: Java (Spring Boot), Python, Lenguaje R
 - Base de Datos Espaciales: PostgreSQL+Postgis, Oracle Spatial
+
+SENCICO 2025©
